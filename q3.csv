@@ -1,0 +1,4 @@
+"错误:  语法错误 在 "drop" 或附近的
+LINE 1: ...ARE "CURSOR:CONN:8442045" CURSOR WITHOUT HOLD FOR drop view ...
+                                                             ^
+"
