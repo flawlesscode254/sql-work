@@ -22,7 +22,8 @@ the table named "sales", with "cust"\"prod"\"quant"\"state"\"day"\"month"\"year"
   * [x] Q1, Q2, Q3 and Q4 (in four separate columns) 
     * [x] – Q1 being the first 3 months of the year (Jan, Feb & Mar)
     * [x] Q2 the next 3 months (Apr, May & Jun), and so on 
-    * [x] – ignore the YEAR component of the dates (i.e., 3/11/2001 is considered the same date as 3/11/2002,  * [x] Also compute the average for the “whole” year (again ignoring the YEAR component
+    * [x] – ignore the YEAR component of the dates (i.e., 3/11/2001 is considered the same date as 3/11/2002  
+    * [x] Also compute the average for the “whole” year (again ignoring the YEAR component
       * [x] meaning simply compute AVG) along with the total quantities (SUM) and the counts (COUNT).
 
 
